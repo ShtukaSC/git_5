@@ -7,3 +7,6 @@
 
 Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5: ![alt text]https://github.com/ShtukaSC/git_5/blob/main/image.png
+
+Задание 4. Запись данных в Redis
+Запишите в Redis несколько ключей с любыми именами и значениями: ![alt text]https://github.com/ShtukaSC/git_5/blob/main/image.png
